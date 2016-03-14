@@ -1,0 +1,28 @@
+name: digitalfinance
+favicon: null
+layout_spectrum: 0.20847826730459929
+typography_spectrum: 0.7662715560290962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8309732780326158
+  lightness: 0.4761248992290348
+  saturation: 0.6721200416795909
+  rhythmicContrast: 0.43909083120524883
+purpose: []
