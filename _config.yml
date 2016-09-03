@@ -1,19 +1,4 @@
-name: digitalfinance
-favicon: null
-layout_spectrum: 0.20847826730459929
 typography_spectrum: 0.7662715560290962
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d8d4d1'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4761248992290348
   saturation: 0.6721200416795909
   rhythmicContrast: 0.43909083120524883
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20847826730459929
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: digitalfinance
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Financial Services Innovation
 purpose: []
